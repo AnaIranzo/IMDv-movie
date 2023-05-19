@@ -11,12 +11,17 @@ IMDv-movie fue desarrollado por Manuel, Ana, Jorge.
 1º- inicio de la app:
     http://localhost:3000/
 
+
+<img src="./assets/Screenshot from 2023-05-19 11-46-39.png" alt="home" />
+
 2º - Desde ahi, puedes logearte si ya eres usuario
 http://localhost:3000/login
 o 
 registrarte --- Por favor, registrate como usuario =)
 Recuerda, apuntarte si te registras, luego tendras que logearte
 http://localhost:3000/register
+
+<img src="./assets/Screenshot from 2023-05-19 11-46-55" alt="login" />
 
 3º - 
 Si te logeas con ADMIN:
