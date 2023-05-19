@@ -21,7 +21,7 @@ registrarte --- Por favor, registrate como usuario =)
 Recuerda, apuntarte si te registras, luego tendras que logearte
 http://localhost:3000/register
 
-<img src="./assets/Screenshot from 2023-05-19 11-46-55" alt="login" />
+<img src="./assets/Screenshot from 2023-05-19 11-46-55.png" alt="login" />
 
 3º - 
 Si te logeas con ADMIN:
