@@ -4,7 +4,7 @@
 IMDv-movie es una aplicación web que permite a los usuarios ver y buscar películas.
 
 ## Autores
-IMDv-movie fue desarrollado por Manuel, Ana, Jorge.
+IMDv-movie fue desarrollado por [Manuel](https://github.com/MMurilloP), [Ana](https://github.com/AnaIranzo), [Jorge](https://github.com/JJmartinc).
 
 ## Rutas
 
